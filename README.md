@@ -33,6 +33,43 @@ This is the **official production website** for **Kuldeep Tour & Travel**, a Him
 The site handles everything a customer needs — browsing Himachal destinations, viewing tour packages, booking local rides, and reaching out instantly via WhatsApp — all without any backend or admin panel for maximum stability in production.
 
 ---
+---
+
+# 📸 Project Screenshots
+
+<div align="center">
+
+## 🏠 Home Page
+
+<img src="./Screenshot%202026-05-20%20162958.png" alt="Home Page" width="1000"/>
+
+<br/><br/>
+
+## 🏔️ Explore Himachal Section
+
+<img src="./Screenshot%202026-05-20%20163035.png" alt="Explore Himachal" width="1000"/>
+
+<br/><br/>
+
+## 📦 Tour Packages
+
+<img src="./Screenshot%202026-05-20%20163120.png" alt="Tour Packages" width="1000"/>
+
+<br/><br/>
+
+## 🚕 Booking & Services
+
+<img src="./Screenshot%202026-05-20%20163151.png" alt="Booking Services" width="1000"/>
+
+<br/><br/>
+
+## 📱 Mobile Responsive UI
+
+<img src="./Screenshot%202026-05-20%20163503.png" alt="Mobile Responsive Design" width="350"/>
+
+</div>
+
+---
 
 ## Live Preview
 
