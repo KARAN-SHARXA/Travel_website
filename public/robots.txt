@@ -1,0 +1,25 @@
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://kuldeeptourandtravel.com/sitemap.xml
+
+# Block admin areas
+Disallow: /admin/
+
+# Block API and dynamic routes
+Disallow: /api/
+Disallow: /_next/
+Disallow: /static/
